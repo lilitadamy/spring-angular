@@ -1,0 +1,5 @@
+spring:
+  message: Hello from DEV environment
+
+server:
+  port: 9000
